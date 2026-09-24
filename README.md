@@ -56,3 +56,7 @@ patterns and optimize future fishing outings.
 
 * [User Stories](DesignDocuments/userStories.md)
 * [Screen Design](DesignDocuments/Screens.md)
+
+## Time Log
+
+* [Time Log](timeLog.md)
