@@ -40,3 +40,5 @@ build/
 
 ### Hibernate ###
 .src/main/resources/hibernate.cfg.xml
+.src/test/resources/hibernate.cfg.xml
+.src/text/resources/database.properties
