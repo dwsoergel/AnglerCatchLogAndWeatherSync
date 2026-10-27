@@ -20,7 +20,6 @@ public class TackleItem {
     private String lureType;
 
     @ManyToOne
-    @JoinColumn(name = "user_id")
     private User user;
 
     public TackleItem() {

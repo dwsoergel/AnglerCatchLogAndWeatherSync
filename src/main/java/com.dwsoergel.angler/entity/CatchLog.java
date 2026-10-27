@@ -17,7 +17,6 @@ public class CatchLog {
     private double weight;
 
     @ManyToOne
-    @JoinColumn(name = "user_id")
     private User user;
 
     public CatchLog() {
