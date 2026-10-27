@@ -16,9 +16,9 @@
         <property name="hibernate.c3p0.max_statements">50</property>
         <property name="hibernate.c3p0.idle_test_period">3000</property>
 
-        <mapping class="entity.CatchLog" />
-        <mapping class="entity.TackleItem" />
-        <mapping class="entity.User" />
+        <mapping class="com.dwsoergel.angler.entity.CatchLog" />
+        <mapping class="com.dwsoergel.angler.entity.TackleItem" />
+        <mapping class="com.dwsoergel.angler.entity.User" />
     </session-factory>
 
 </hibernate-configuration>

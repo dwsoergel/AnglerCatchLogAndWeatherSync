@@ -1,4 +1,4 @@
-package entity;
+package com.dwsoergel.angler.entity;
 
 import jakarta.persistence.*;
 import org.hibernate.annotations.GenericGenerator;
