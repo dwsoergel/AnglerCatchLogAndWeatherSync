@@ -42,7 +42,9 @@ patterns and optimize future fishing outings.
 * Logging
   * Log4J2
 * Hosting
-  * AWS
+  * AWS Cognito
+  * AWS RDS
+  * AWS Elastic Beanstalk
 * Tech I'd like to explore as part of this work
   * OpenWeatherMap Current Weather API
   * Hibernate Validator
