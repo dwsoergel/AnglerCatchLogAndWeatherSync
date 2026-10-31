@@ -1,6 +1,3 @@
-Week 1 - 2 hours
-Week 2 - 3 Hours
-
 # Time Log
 
 | Date | Task | Hours | Notes|
@@ -9,3 +6,8 @@ Week 2 - 3 Hours
 |Week 2|      | 3 Hours|     |
 |Week 3|      | 4 Hours|     |
 |Week 4| Checkpoint 1 for Indie Project|5 Hours|     |
+|Week 5|      |2 Hours|     |
+|Week 6|      |3 Hours|     |
+|Week 7| Checkpoint 2 for Indie Project|2 Hours|     |
+|Week 8| Checkpoint 2 for Indie Project|4 Hours|     |
+|Week 9|      |       |     |
