@@ -974,3 +974,6 @@ java.lang.NullPointerException: null
 [DEBUG] 2026-10-27 02:29:35.664 [main] GenericDaoTest - Inserted user ID: 1
 [DEBUG] 2026-10-27 02:29:35.821 [main] GenericDaoTest - Inserted user for getById with ID: 1
 [DEBUG] 2026-10-27 02:29:36.295 [main] GenericDaoTest - Retrieved 0 users.
+[DEBUG] 2026-10-27 15:59:40.891 [main] GenericDaoTest - Inserted user ID: 1
+[DEBUG] 2026-10-27 15:59:41.126 [main] GenericDaoTest - Inserted user for getById with ID: 1
+[DEBUG] 2026-10-27 15:59:41.700 [main] GenericDaoTest - Retrieved 0 users.
